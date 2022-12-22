@@ -1,4 +1,4 @@
-[![MasterHead](https://www.macapflag.com/blog/wp-content/uploads/2021/05/le-metier-de-developpeur-870x600.jpg)]
+![MasterHead](https://www.macapflag.com/blog/wp-content/uploads/2021/05/le-metier-de-developpeur-870x600.jpg)
 <h1 align="center">Hi 👋, I'm Nicolas Gutknecht</h1>
 <h3 align="center">A passionate backend developer from France</h3>
 <img align="right" alt="coding" zidth="400" src="https://thumbs.gfycat.com/BetterFalseKid-mobile.mp4">
