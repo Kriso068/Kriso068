@@ -21,7 +21,7 @@
 React · PHP · Symfony · MySQL  
 🇫🇷 France · Remote-friendly
 
-I’m a Full Stack Web Developer with 3+ years of experience building clean, maintainable web applications.
+Full Stack Web Developer with 3+ years of experience building clean, maintainable web applications.
 
 I specialize in:
 - Modern frontend interfaces with **React**
