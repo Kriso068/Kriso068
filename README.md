@@ -10,7 +10,12 @@
     </td>
     <td>
 
-# Hi 👋 I'm Nicolas Gutknecht
+# Hi 👋, I'm Nicolas Gutknecht
+
+<p>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Available-6b8f71?style=flat&logo=linkedin&logoColor=white&color=6b8f71&color=fff" />
+</p>
+
 
 **Full Stack Web Developer**  
 React · PHP · Symfony · MySQL  
@@ -71,15 +76,15 @@ I’ve worked as a **freelance developer** and **web development trainer**, and 
 ### ⭐ Featured Projects
 
 #### 📸 Pixsphere  
-Modern web application focused on clean UI, performance, and maintainable code.  
-**Tech:** React · JavaScript · CSS  
+Social media UI concept inspired by modern platforms.  
+**Tech:** React · Vite · Firebase · Chakra-ui  
 🔗 Repo: https://github.com/kriso068/pixsphere
 
 ---
 
 #### 🍔 Food Delivery App  
-Frontend application with reusable components and a user-focused interface.  
-**Tech:** React · JavaScript  
+Full-stack food delivery web application built with React, Node.js, Express, and MongoDB, featuring a REST API and an admin dashboard.  
+**Tech:** React · Node.js · Express · MongoDB  
 🔗 Repo: https://github.com/kriso068/food-delivery-full
 
 ---
