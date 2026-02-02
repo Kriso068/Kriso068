@@ -78,7 +78,8 @@ I’ve worked as a **freelance developer** and **web development trainer**, and 
 #### 📸 Pixsphere  
 Social media UI concept inspired by modern platforms.  
 **Tech:** React · Vite · Firebase · Chakra-ui  
-🔗 Repo: https://github.com/kriso068/pixsphere
+🔗 Repo: https://github.com/kriso068/pixsphere  
+🔗 demo: https://pixsphere.k068webdeveloppeur.com/
 
 ---
 
