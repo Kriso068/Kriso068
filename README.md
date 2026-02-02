@@ -64,3 +64,22 @@ I’ve worked as a **freelance developer** and **web development trainer**, and 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" style="margin-right:10px;" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
 </p>
+
+
+---
+
+### ⭐ Featured Projects
+
+#### 📸 Pixsphere  
+Modern web application focused on clean UI, performance, and maintainable code.  
+**Tech:** React · JavaScript · CSS  
+🔗 Repo: https://github.com/kriso068/pixsphere
+
+---
+
+#### 🍔 Food Delivery App  
+Frontend application with reusable components and a user-focused interface.  
+**Tech:** React · JavaScript  
+🔗 Repo: https://github.com/kriso068/foodDelivery
+
+---
