@@ -80,6 +80,6 @@ Modern web application focused on clean UI, performance, and maintainable code.
 #### 🍔 Food Delivery App  
 Frontend application with reusable components and a user-focused interface.  
 **Tech:** React · JavaScript  
-🔗 Repo: https://github.com/kriso068/foodDelivery
+🔗 Repo: https://github.com/kriso068/food-delivery-full
 
 ---
