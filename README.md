@@ -1,25 +1,18 @@
-<table>
-  <tr>
-    <td width="220" align="center">
-      <img 
-        src="https://github.com/user-attachments/assets/e6bdfb22-4898-44bb-ba50-cfb6322a88cb" 
-        alt="Nicolas Gutknecht" 
-        width="200"
-        style="border-radius: 12px;"
-      />
-    </td>
-    <td>
-
 # Hi 👋, I'm Nicolas Gutknecht
 
 <p>
   <img src="https://img.shields.io/badge/Open%20to%20Work-Available-6b8f71?style=flat&logo=linkedin&logoColor=white&color=6b8f71&color=fff" />
 </p>
 
-
 **Full Stack Web Developer**  
 React · PHP · Symfony · MySQL  
-🇫🇷 France · Remote-friendly
+🇪🇺 Europe · Remote-friendly
+
+<details>
+  <summary><b>📸 Show photo</b></summary>
+  <br />
+  <img src="https://github.com/user-attachments/assets/e6bdfb22-4898-44bb-ba50-cfb6322a88cb" alt="Nicolas Gutknecht" width="220" />
+</details>
 
 Full Stack Web Developer with 3+ years of experience building clean, maintainable web applications.
 
@@ -32,9 +25,6 @@ I’ve worked as a **freelance developer** and **web development trainer**, and 
 
 👉 **Portfolio:** https://nicolas-gutknecht.com
 
-    
-  </tr>
-</table>
 
 ---
 
